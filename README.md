@@ -3,6 +3,7 @@ This is my proffie board config file based on ProffieOS v7.7 for custom lightsab
 
 # Test
 - https://youtu.be/FGD5_Lvln-g?feature=shared
+- https://arclab.tistory.com/352
 
 # Reference
 - https://fredrik.hubbe.net/lightsaber/v5/
